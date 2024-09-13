@@ -1,0 +1,18 @@
+[user]
+    name = Prince Kiese Elonga
+    email = 6149511@cstjean.qc.ca
+    username = princekiese
+
+[core]
+    editor = vim
+
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    st = status
+    lg = log --oneline --graph --decorate --all
+
+[push]
+    default = simple
+
